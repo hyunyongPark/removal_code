@@ -141,14 +141,11 @@ curl -s http://input.png | rembg -a -ae 15 > output.png
     </tbody>
 </table>
 
+
+
 ### References
 
 - https://arxiv.org/pdf/2005.09007.pdf
 - https://github.com/NathanUA/U-2-Net
 - https://github.com/pymatting/pymatting
-
-### Buy me a coffee
-Liked some of my work? Buy me a coffee (or more likely a beer)
-
-<a href="https://www.buymeacoffee.com/danielgatis" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;"></a>
 

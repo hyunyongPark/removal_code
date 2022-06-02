@@ -1,10 +1,15 @@
-# Rembg
+# Background Removal System Code Discription
 
 ### Requirements
 
-* python 3.8 or newer
+* python 3.6
 
 * torch and torchvision stable version (https://pytorch.org)
+
+### Setting 
+
+* 
+
 
 #### How to install torch/torchvision
 

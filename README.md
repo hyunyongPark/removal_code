@@ -4,32 +4,19 @@
 
 * python 3.6
 
-* torch and torchvision stable version (https://pytorch.org)
-
-### Setting 
-
-* 
-
-
-#### How to install torch/torchvision
-
-Go to https://pytorch.org and scrool down to `INSTALL PYTORCH` section and follow the instructions.
-
-For example:
-```
-PyTorch Build: Stable (1.7.1)
-Your OS: Windows
-Package: Pip
-Language: Python
-CUDA: None
-```
+#### 환경 세팅
 
 The install cmd is:
 ```
-pip install torch==1.7.1+cpu torchvision==0.8.2+cpu -f https://download.pytorch.org/whl/torch_stable.html
+conda create -n your_prjname python=3.6
+conda activate your_prjname
+pip install -r requirements.txt
 ```
 
-### Usage as a cli
+- your_prjname : 생성할 가상환경 (파이썬버전은 3.6 고정)
+
+
+### 
 
 Remove the background from a remote image
 ```bash

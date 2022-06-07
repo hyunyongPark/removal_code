@@ -4,9 +4,8 @@
 ```
 해당 코드는 rembg 공식 git으로부터 사용되었습니다.
 아래의 version은 python 3.8 이상으로부터 변경되었으며, 본 post에서는 3.6버전에서의 구버전 rembg 코드를 참고하여 작성되었습니다. 
-https://github.com/danielgatis/rembg
 ```
-
+- https://github.com/danielgatis/rembg
 
 ### Requirements
 

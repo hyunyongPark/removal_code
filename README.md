@@ -25,7 +25,9 @@
 * hsh>=1.1.0
 
 
-#### 환경 세팅
+
+
+### 환경 세팅
 
 The install cmd is:
 ```
@@ -39,6 +41,7 @@ pip install -r rembg/requirements.txt
 
 
 
+
 ### 사용사항
 
 Remove the background from a remote image
@@ -47,6 +50,8 @@ Remove the background from a remote image
 python3 rembg/src/rembg/cmd/cli.py --input_path "원본 이미지가 저장된 로컬 경로" --output_path "배경제거 처리 된 이미지가 저장될 경로"
 
 ```
+
+
 
 ### Result
 <table>
@@ -63,6 +68,8 @@ python3 rembg/src/rembg/cmd/cli.py --input_path "원본 이미지가 저장된 �
         </tr>
     </tbody>
 </table>
+
+
 
 
 ### References

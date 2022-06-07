@@ -19,7 +19,8 @@ The install cmd is:
 ```
 conda create -n your_prjname python=3.6
 conda activate your_prjname
-pip install -r requirements.txt
+cd /생성된 가상환경경로
+pip install -r rembg/requirements.txt
 ```
 
 - your_prjname : 생성할 가상환경 이름 (파이썬버전은 3.6 고정)

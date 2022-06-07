@@ -35,7 +35,21 @@ python3 rembg/src/rembg/cmd --input_path "원본 이미지가 저장된 로컬 �
 
 ```
 
-
+### Result
+<table>
+    <thead>
+        <tr>
+            <td>Original</td>
+            <td>Without background</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><img src="https://github.com/hyunyongPark/removal_code/blob/master/test1.jpg"/></td>
+            <td><img src="https://github.com/hyunyongPark/removal_code/blob/main/output/test1._removed.jpg"/></td>
+        </tr>
+    </tbody>
+</table>
 
 
 ### References

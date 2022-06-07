@@ -31,7 +31,8 @@ pip install -r rembg/requirements.txt
 
 Remove the background from a remote image
 ```
-python3 rembg/src/rembg/cmd --input_path "원본 이미지가 저장된 로컬 경로" --output_path "배경제거 처리 된 이미지가 저장될 경로"
+
+python3 rembg/src/rembg/cmd/cli.py --input_path "원본 이미지가 저장된 로컬 경로" --output_path "배경제거 처리 된 이미지가 저장될 경로"
 
 ```
 

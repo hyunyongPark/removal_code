@@ -44,7 +44,7 @@ pip install -r rembg/requirements.txt
 아래의 링크를 통해 학습 weight 파일을 다운받습니다. 해당 파일은 rembg에서 학습한 pretrained file입니다.
 해당 weight 파일은 "가상환경/rembg/src/rembg/cmd/" 에 위치하도록 합니다.  
 - https://drive.google.com/drive/folders/1tm6HLIx_r9jNquIUPyGtHk1TQR2XOWIw?usp=sharing
-
+https://github.com/hyunyongPark/removal_code/blob/main/img/img1.PNG
 
 
 ### 사용사항
